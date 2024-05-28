@@ -1,0 +1,6 @@
+{
+  "solicitacoes": [
+    {"matricula_aluno":"001", "tipo_treino":"cardio"},
+    {"matricula_aluno":"001", "tipo_treino":"cardio"}
+  ]
+}

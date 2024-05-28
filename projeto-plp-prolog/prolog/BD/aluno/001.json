@@ -1,0 +1,24 @@
+{
+  "aulasAluno": ["danca", "danca", "danca" ],
+  "contatoAluno":"83988919144",
+  "cpfAluno":"06639930400",
+  "emDia":"true",
+  "enderecoAluno":"Rua prefeito Francisco camilo ,160",
+  "matricula":"001",
+  "nomeAluno":"Kevin",
+  "planoAluno":"gold",
+  "saldo":"145.0",
+  "senhaAluno":"jp14",
+  "treinos": [
+    {
+      "exercicios": ["Agachamento", "Supino", "Flexao de Braco" ],
+      "tipo":"Peito"
+    },
+    {
+      "exercicios": ["Corrida", "Abdominais", "Flexoes" ],
+      "tipo":"Costas"
+    },
+    {"exercicios": ["Supino", "Triceps" ], "tipo":"Peito"},
+    {"exercicios": ["cardio", "pantirrilha" ], "tipo":"Perna"}
+  ]
+}
